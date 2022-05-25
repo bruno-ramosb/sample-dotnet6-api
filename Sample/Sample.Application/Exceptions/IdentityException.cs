@@ -1,6 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 
-namespace Example.Application.Exceptions
+namespace Sample.Application.Exceptions
 {
     public class IdentityException : ApplicationException
     {

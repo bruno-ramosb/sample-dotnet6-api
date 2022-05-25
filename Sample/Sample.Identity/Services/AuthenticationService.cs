@@ -1,11 +1,11 @@
-﻿using Example.Application.Exceptions;
-using Microsoft.AspNetCore.Identity;
+﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using Newtonsoft.Json;
 using Sample.Application.Contracts.Identity;
+using Sample.Application.Exceptions;
 using Sample.Application.Models.Authentication;
 using Sample.Domain.Entities.Identities;
 using System.IdentityModel.Tokens.Jwt;
